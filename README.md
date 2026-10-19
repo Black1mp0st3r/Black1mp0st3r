@@ -12,6 +12,12 @@ DNI // DO NOT LIST
   Don't ask me about personal things, it makes me uncomfortable.
      I don't mind interaction, it makes me joyous, but please don't come up to me with drama! 
 
+     /// Cupiosexual // genderfluid //
+
+     c+h enc // appeciated //
+
+     mostly oftb 5 days a week (mon-fri)
+
      Thats all, thanks for reading this ! Hope to find new moots/friends :D Sign ATA if you want to!
      
 
