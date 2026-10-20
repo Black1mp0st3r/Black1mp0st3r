@@ -1,8 +1,4 @@
-<p>
-  <img src="https://demolab.com" alt="Line 1" />
-  <br />
-  <img src="https://demolab.com" alt="Line 2" />
-</p>
+![Simulated Note Typing](typing.svg)
 
 
 -----------------------------------------------------
