@@ -1,5 +1,4 @@
-![Typing Animation](https://demolab.com)
-
+![Typing Simulator](https://herokuapp.com)
 
 
 
