@@ -1,4 +1,5 @@
-![Typewriter Poem](typewriter.svg)
+![typewriter](https://github.com/user-attachments/assets/c95d4d03-90e7-4cb1-9f73-6f9d58d282af)
+
 
 -----------------------------------------------------
 
