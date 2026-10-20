@@ -1,12 +1,22 @@
 <img width="459" height="105" alt="typing-note gif" src="https://github.com/user-attachments/assets/6d59ebde-dec4-4a86-8feb-dd7f2d670464" />
 
-
-
 -----------------------------------------------------
 
   <img width="184" height="232" alt="pony-town-white from vs imposter-boop-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/e639185e-87b9-441c-ad5c-cd5a98e1530a" />
 
 -------------------------------------------------------------------- //
+
+Hello ! I'm Azelia, or Enzo. I'm a teen Pony Town player who joined in 2022 originally before restarting ^^ I am usually around docks and occasionally in parties.
+
+Places : 
+
+// Docks
+
+// things like FTS, FSR, Hangouts, and occasionally ill join mafias.
+
+I enjoy music like windows 96 and never get used to people, i also enjoy playing adopt me occasionally. You can probably find me with one or all of my siblings (5 of us, lol) and i a usually either a genderfluid dog or a cupiosexual pup! Ask me anything (just not anything that makes me uncomfy ^^) i love red mungus
+
+Current yume : Black // dbls int freely
 
 What have i been doing?
 - mainly i have been working on my online school activities and skins, you can find me usually as the pony above!
