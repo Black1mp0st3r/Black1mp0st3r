@@ -1,4 +1,4 @@
-<img src="typing-note.gif" alt="Typing Animation" />
+<img width="459" height="105" alt="typing-note gif" src="https://github.com/user-attachments/assets/6d59ebde-dec4-4a86-8feb-dd7f2d670464" />
 
 
 
