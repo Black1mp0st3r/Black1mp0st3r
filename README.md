@@ -1,4 +1,4 @@
-(typing-note.gif)
+<img src="typing-note.gif" alt="Typing Animation" />
 
 
 
