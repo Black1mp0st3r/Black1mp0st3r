@@ -1,4 +1,6 @@
-![Typing Animation](typing.svg)
+[![Typing Animation](https://demolab.com)](https://git.io/typing-svg)
+
+
 
 -----------------------------------------------------
 
