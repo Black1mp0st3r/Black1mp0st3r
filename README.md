@@ -1,4 +1,4 @@
-![Typing Animation](https://githubusercontent.com)
+![Typing Animation](typing.svg)
 
 -----------------------------------------------------
 
