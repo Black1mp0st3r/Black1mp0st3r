@@ -1,4 +1,4 @@
-![Typing Simulator](https://herokuapp.com)
+![Simulated Typing Animation](typing-note.gif)
 
 
 
