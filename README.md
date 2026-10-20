@@ -1,6 +1,4 @@
-
-
-<img src="https://demolab.com" alt="Typing Animation" />
+[![Typing SVG](https://demolab.com[%7B%22text%22:%22I+know+i+cant+hide+from+you%22,%22color%22:%22FF0000%22%7D,%7B%22text%22:%22doesnt+matter,+i+luv+you%22,%22color%22:%22000000%22%7D])](https://git.io/typing-svg)
 
 
 
