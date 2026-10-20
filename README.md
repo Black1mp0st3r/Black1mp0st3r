@@ -1,6 +1,6 @@
-# Welcome to my profile!
 
-[![Typing Animation](https://demolab.com)](https://github.com)
+
+<img src="https://demolab.com" alt="Typing Animation" />
 
 
 
