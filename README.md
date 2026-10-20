@@ -1,4 +1,4 @@
-![Simulated Typing Animation](typing-note.gif)
+(typing-note.gif)
 
 
 
