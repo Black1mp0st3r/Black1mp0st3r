@@ -1,4 +1,4 @@
-![Simulated Note Typing](typing.svg)
+<img src="https://demolab.com" alt="Typing Animation" />
 
 
 -----------------------------------------------------
