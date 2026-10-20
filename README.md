@@ -1,9 +1,9 @@
-<div style="font-family: 'Courier Prime', monospace; font-size: 24px; line-height: 1.5;">
-  <!-- First Line (Red) -->
-  <img src="https://demolab.com" alt="Line 1" /><br />
-  <!-- Second Line (Black) -->
+<p>
+  <img src="https://demolab.com" alt="Line 1" />
+  <br />
   <img src="https://demolab.com" alt="Line 2" />
-</div>
+</p>
+
 
 -----------------------------------------------------
 
