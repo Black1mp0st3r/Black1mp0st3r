@@ -1,4 +1,4 @@
-![typewriter](https://github.com/user-attachments/assets/c95d4d03-90e7-4cb1-9f73-6f9d58d282af)
+![typewriter](https://github.com/user-attachments/assets/dc5562ae-e179-488e-b860-17b38dba826d)
 
 
 -----------------------------------------------------
