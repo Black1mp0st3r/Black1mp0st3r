@@ -1,6 +1,8 @@
 <img src="https://demolab.com" alt="Typing Animation" />
 
 
+
+
 -----------------------------------------------------
 
   <img width="184" height="232" alt="pony-town-white from vs imposter-boop-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/e639185e-87b9-441c-ad5c-cd5a98e1530a" />
