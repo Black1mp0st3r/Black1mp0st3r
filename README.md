@@ -1,6 +1,5 @@
 ![typewriter](https://github.com/user-attachments/assets/c95d4d03-90e7-4cb1-9f73-6f9d58d282af)
 
-
 -----------------------------------------------------
 
   <img width="184" height="232" alt="pony-town-white from vs imposter-boop-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/e639185e-87b9-441c-ad5c-cd5a98e1530a" />
