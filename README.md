@@ -1,4 +1,4 @@
-<img src="https://demolab.com" alt="Typing Animation" />
+![Typing Animation](https://demolab.com)
 
 
 
