@@ -1,5 +1,4 @@
-<img width="150" height="150" alt="pack" src="https://github.com/user-attachments/assets/8ad2999b-e149-4b25-9add-bcf06e69cde3" />
-
+![typewriter](https://github.com/user-attachments/assets/c62fe7a1-fec7-460f-84f4-dde04d8ed272)
 
 
 -----------------------------------------------------
