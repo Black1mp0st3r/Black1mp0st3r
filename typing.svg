@@ -1,0 +1,115 @@
+<svg xmlns="http://w3.org" viewBox="0 0 800 200" width="100%" height="200">
+  <style>
+    /* Background matches your exact video tone */
+    .bg {
+      fill: #f4f3ef;
+    }
+
+    /* Text styles mimicking a simple notepad font */
+    .typing-text {
+      font-family: Arial, sans-serif;
+      font-size: 20px;
+      fill: #333333;
+    }
+
+    /* Typewriter animation sequence */
+    @keyframes simulate-typing {
+      0%, 2%    { content: ""; }
+      3%        { content: "I"; }
+      4%        { content: "I "; }
+      5%        { content: "I k"; }
+      6%        { content: "I kn"; }
+      7%        { content: "I kno"; }
+      8%        { content: "I know"; }
+      9%        { content: "I know "; }
+      10%       { content: "I know i"; }
+      11%       { content: "I know i "; }
+      12%       { content: "I know i c"; }
+      13%       { content: "I know i ca"; }
+      14%       { content: "I know i can"; }
+      15%       { content: "I know i can'"; }
+      16%       { content: "I know i can't"; }
+      17%       { content: "I know i can't "; }
+      18%       { content: "I know i can't h"; }
+      19%       { content: "I know i can't hi"; }
+      20%       { content: "I know i can't hid"; }
+      21%       { content: "I know i can't hide"; }
+      22%       { content: "I know i can't hide "; }
+      23%       { content: "I know i can't hide f"; }
+      24%       { content: "I know i can't hide fr"; }
+      25%       { content: "I know i can't hide fro"; }
+      26%       { content: "I know i can't hide from"; }
+      27%       { content: "I know i can't hide from "; }
+      28%       { content: "I know i can't hide from y"; }
+      29%       { content: "I know i can't hide from yo"; }
+      30%, 45%  { content: "I know i can't hide from you"; } /* Hold message */
+      
+      /* Deleting characters one by one */
+      46%       { content: "I know i can't hide from yo"; }
+      47%       { content: "I know i can't hide from y"; }
+      48%       { content: "I know i can't hide from "; }
+      49%       { content: "I know i can't hide from"; }
+      50%       { content: "I know i can't hide fro"; }
+      51%       { content: "I know i can't hide fr"; }
+      52%       { content: "I know i can't hide f"; }
+      53%       { content: "I know i can't hide "; }
+      54%       { content: "I know i can't hide"; }
+      55%       { content: "I know i can't hid"; }
+      56%       { content: "I know i can't hi"; }
+      57%       { content: "I know i can't h"; }
+      58%       { content: "I know i can't "; }
+      59%       { content: "I know i can't"; }
+      60%       { content: "I know i can'"; }
+      61%       { content: "I know i can"; }
+      62%       { content: "I know i ca"; }
+      63%       { content: "I know i c"; }
+      64%       { content: "I know i "; }
+      65%       { content: "I know i"; }
+      66%       { content: "I know "; }
+      67%       { content: "I know"; }
+      68%       { content: "I kno"; }
+      69%       { content: "I kn"; }
+      70%       { content: "I k"; }
+      71%       { content: "I "; }
+      72%       { content: "I"; }
+      73%       { content: ""; }
+      
+      /* Typing second phrase */
+      74%       { content: "d"; }
+      75%       { content: "do"; }
+      76%       { content: "doe"; }
+      77%       { content: "does"; }
+      78%       { content: "doesn"; }
+      79%       { content: "doesnt"; }
+      80%       { content: "doesnt "; }
+      81%       { content: "doesnt m"; }
+      82%       { content: "doesnt ma"; }
+      83%       { content: "doesnt mat"; }
+      84%       { content: "doesnt matt"; }
+      85%       { content: "doesnt matte"; }
+      86%       { content: "doesnt matter"; }
+      87%       { content: "doesnt matter,"; }
+      88%       { content: "doesnt matter, "; }
+      89%       { content: "doesnt matter, i"; }
+      90%       { content: "doesnt matter, i "; }
+      91%       { content: "doesnt matter, i l"; }
+      92%       { content: "doesnt matter, i lu"; }
+      93%       { content: "doesnt matter, i luv"; }
+      94%       { content: "doesnt matter, i luv "; }
+      95%       { content: "doesnt matter, i luv y"; }
+      96%       { content: "doesnt matter, i luv yo"; }
+      97%, 100% { content: "doesnt matter, i luv you"; } /* Hold second message */
+    }
+
+    .animated-output::after {
+      content: "";
+      animation: simulate-typing 7s infinite;
+    }
+  </style>
+
+  <!-- Solid background block -->
+  <rect width="100%" height="100%" class="bg" />
+
+  <!-- Drawing target simulation text block -->
+  <text x="30" y="50" class="typing-text animated-output"></text>
+</svg>
