@@ -1,4 +1,4 @@
-README // INTRODUCTIONS
+![Typing Animation](typing.svg)
 
 -----------------------------------------------------
 
