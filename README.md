@@ -1,5 +1,9 @@
-[![Typing SVG](https://demolab.com[%7B%22text%22:%22I+know+i+cant+hide+from+you%22,%22color%22:%22FF0000%22%7D,%7B%22text%22:%22doesnt+matter,+i+luv+you%22,%22color%22:%22000000%22%7D])](https://git.io)
-
+<div style="font-family: 'Courier Prime', monospace; font-size: 24px; line-height: 1.5;">
+  <!-- First Line (Red) -->
+  <img src="https://demolab.com" alt="Line 1" /><br />
+  <!-- Second Line (Black) -->
+  <img src="https://demolab.com" alt="Line 2" />
+</div>
 
 -----------------------------------------------------
 
