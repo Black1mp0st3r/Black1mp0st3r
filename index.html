@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typewriter Effect</title>
+    <style>
+        body {
+            background-color: #0d1117; /* GitHub dark mode color */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: monospace;
+        }
+
+        /* The main red text container */
+        #text-container {
+            color: #ff4d4d; /* Bright red color */
+            font-size: 2rem;
+            font-weight: bold;
+            text-shadow: 0 0 10px rgba(255, 77, 77, 0.5);
+            border-right: 3px solid #ff4d4d; /* The typing cursor */
+            white-space: nowrap;
+            overflow: hidden;
+            animation: blink 0.75s step-end infinite;
+        }
+
+        /* Blinking cursor animation */
+        @keyframes blink {
+            from, to { border-color: transparent }
+            50% { border-color: #ff4d4d; }
+        }
+    </style>
+</head>
+<body>
+
+    <div id="text-container"></div>
+
+    <script>
+        const textElement = document.getElementById("text-container");
+        const firstPhrase = "I know i can't hide from you";
+        const secondPhrase = "doesnt matter, i love you";
+
+        // Speeds in milliseconds
+        const typeSpeed = 100;   
+        const deleteSpeed = 60;  
+        const pauseTime = 1500;  // Wait time before deleting
+
+        let currentText = "";
+        let charIndex = 0;
+
+        function typeFirst() {
+            if (charIndex < firstPhrase.length) {
+                currentText += firstPhrase.charAt(charIndex);
+                textElement.textContent = currentText;
+                charIndex++;
+                setTimeout(typeFirst, typeSpeed);
+            } else {
+                // Pause once full first message is typed, then delete
+                setTimeout(deleteFirst, pauseTime);
+            }
+        }
+
+        function deleteFirst() {
+            if (charIndex > 0) {
+                currentText = currentText.substring(0, currentText.length - 1);
+                textElement.textContent = currentText;
+                charIndex--;
+                setTimeout(deleteFirst, deleteSpeed);
+            } else {
+                // Once deleted completely, type the final message
+                setTimeout(typeSecond, 500);
+            }
+        }
+
+        function typeSecond() {
+            if (charIndex < secondPhrase.length) {
+                currentText += secondPhrase.charAt(charIndex);
+                textElement.textContent = currentText;
+                charIndex++;
+                setTimeout(typeSecond, typeSpeed);
+            }
+            // Holds on the final message permanently
+        }
+
+        // Start the automated loop on page load
+        window.onload = typeFirst;
+    </script>
+</body>
+</html>
