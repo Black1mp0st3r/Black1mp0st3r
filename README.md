@@ -1,4 +1,6 @@
-[![Typing Animation](https://demolab.com)](https://git.io/typing-svg)
+# Welcome to my profile!
+
+[![Typing Animation](https://demolab.com)](https://github.com)
 
 
 
