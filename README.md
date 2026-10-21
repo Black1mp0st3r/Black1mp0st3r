@@ -3,6 +3,10 @@
 
 <img width="450" height="60" alt="blinkie-genderfluid-cupiosexual-call-me-enzo-or-azelia-3x" src="https://github.com/user-attachments/assets/534c1e4d-169f-40c5-9611-abab115c1a2a" />
 
-// match w/ poppiezzz \\
+// match w/ @poppiezzz \\
 
 irritable streak, iwc if i allow it 
+
+// im very friendly until im irritated, its never directed to others however, i will simply just have slower or clipped responses. \\
+
+i enjoy Windows 96 and Sodikken.
