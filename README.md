@@ -1,6 +1,4 @@
-![typewriter](https://github.com/user-attachments/assets/c62fe7a1-fec7-460f-84f4-dde04d8ed272)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=you+and+me%2C+we're+not+the+same.;i+am+a+sinner%2C+you+are+a+saint+%E2%99%A5)](https://git.io/typing-svg)
 -----------------------------------------------------
 
   <img width="184" height="232" alt="pony-town-white from vs imposter-boop-sit-blinking-padded-4x" src="https://github.com/user-attachments/assets/e639185e-87b9-441c-ad5c-cd5a98e1530a" />
