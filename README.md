@@ -3,7 +3,7 @@
 
 <img width="150" height="20" alt="38293867401ddd8a9318fb6de51a1fb1" src="https://github.com/user-attachments/assets/69f36336-018e-42ea-b730-77bbd20c4d93" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=this+is+a+test)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=love+you+poppie)](https://git.io/typing-svg)
 
 -------------------///
 
