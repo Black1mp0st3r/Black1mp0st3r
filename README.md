@@ -3,6 +3,8 @@
 
 <img width="150" height="20" alt="38293867401ddd8a9318fb6de51a1fb1" src="https://github.com/user-attachments/assets/69f36336-018e-42ea-b730-77bbd20c4d93" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=this+is+a+test)](https://git.io/typing-svg)
+
 -------------------///
 
 <img width="150" height="20" alt="2ddffb0401bad00b00409f8b7b9002ab" src="https://github.com/user-attachments/assets/015e9025-7b51-49ce-8bd5-d206cab91a2f" />
